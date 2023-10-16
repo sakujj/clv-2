@@ -1,0 +1,6 @@
+rootProject.name = 'clv-2'
+include 'main-task'
+include 'core-api-task'
+include 'core-api-task:core'
+include 'core-api-task:api'
+
